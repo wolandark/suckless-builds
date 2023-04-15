@@ -13,6 +13,7 @@
   - open clipboard
 - bold is not bright
 - desktop entry
+- wide glyph support
 - scroll back
   - scrollback mouse altscreen
   - scrollback mouse increment
