@@ -42,6 +42,10 @@
 #### Patches Applied
 - background image
 
+![2023-04-17-030135_3840x1080_scrot](https://user-images.githubusercontent.com/107309764/232349944-2afddf31-0b86-4882-8efb-b1b7abc2f612.png)
+
+<hr>
+
 ### dwm
 #### Versions
 There are multiple builds of dwm available. Each build is slightly different than the others. Refer to the patches page of suckless website to find out more about each patch. 
@@ -120,4 +124,4 @@ There are multiple builds of dwm available. Each build is slightly different tha
 - quit hotkey
 - scroll multiply 
 
-
+![surf](https://user-images.githubusercontent.com/107309764/232350203-f0677bd1-b98e-4aa1-94a0-3470d77cb7ac.png)
