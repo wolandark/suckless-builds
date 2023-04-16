@@ -1,0 +1,3 @@
+## Usage
+Rename the theme to .Xresources and place it in your home directory then source it using:
+<code>xrdb -merge ~/.Xresources</code>
