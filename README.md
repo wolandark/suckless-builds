@@ -51,9 +51,10 @@ There are multiple builds of dwm available. Each build is slightly different tha
 - dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-notitle
 - dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads
 - dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-titlecolors
+- dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-dynamicscratchpads-notitle
 
 ![2023-04-16-074201_1280x800_scrot](https://user-images.githubusercontent.com/107309764/232266110-71827f24-db04-43ab-bc42-8ac7ce33faca.png)
-[Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-dynamicscratchpads plus Xresources mocha theme]()
+[Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-dynamicscratchpads-notitle plus Xresources mocha theme]()
 
 ![dwm-scr](https://user-images.githubusercontent.com/107309764/232183377-bd25a59c-faf3-4e21-9c7d-650bceeec170.png)
 [Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads]()
