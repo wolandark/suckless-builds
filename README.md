@@ -61,29 +61,31 @@ There are multiple builds of dwm available. Each build is slightly different tha
 
 ### KeyBindings
 #### General Bindings
-| SUPER | d                  | Dmenu                                       |
-| SUPER | enter              | ST                                          |
-| SUPER | b                  | Toggle Bar                                  |
-| SUPER | j/k                | Change Focus                                |
-| SUPER | i/p                | Inc/Dec Master                              |
-| SUPER | h/l                | Resize                                      |
-| SUPER | tab                | Switch Between Last Tags                    |
-| SUPER | q                  | Kill                                        |
-| SUPER | t                  | Tile                                        |
-| SUPER | f                  | Floating                                    |
-| SUPER | m                  | Monocole                                    |
-| SUPER | r                  | Fibo                                        |
-| SUPER | shift + r          | Dwindle                                     |
-| SUPER | space              | Layout 0                                    |
-| SUPER | shift + space      | Toggle Floating                             |
-| SUPER | 0                  | View All Tags                               |
-| SUPER | shift + 0          | Mark Current Window For To View On All Tags |
-| ALT   | left/right         | View Left/Right                             |
-| ALT   | shift + left/right | Tag To Left/Right                           |
-| SUPER | 1..9               | Go To Tag                                   |
-| SUPER | shift + w          | Firefox                                     |
-| ALT   | shift + w          | Qutebrowser                                 |
-| ALT   | f                  | Thunar                                      |
+| Keys | Action |
+|-----|----|
+| SUPER + d                  | Dmenu                                       |
+| SUPER + Enter              | ST                                          |
+| SUPER + b                  | Toggle Bar                                  |
+| SUPER + j/k                | Change Focus                                |
+| SUPER + i/p                | Inc/Dec Master                              |
+| SUPER + h/l                | Resize                                      |
+| SUPER + Tab                | Switch Between Last Tags                    |
+| SUPER + q                  | Kill                                        |
+| SUPER + t                  | Tile                                        |
+| SUPER + f                  | Floating                                    |
+| SUPER + m                  | Monocole                                    |
+| SUPER + r                  | Fibo                                        |
+| SUPER + shift + r          | Dwindle                                     |
+| SUPER + space              | Layout 0                                    |
+| SUPER + shift + space      | Toggle Floating                             |
+| SUPER + 0                  | View All Tags                               |
+| SUPER + shift + 0          | Mark Current Window For To View On All Tags |
+| ALT   + left/right         | View Left/Right                             |
+| ALT   + shift + left/right | Tag To Left/Right                           |
+| SUPER +  1..9               | Go To Tag                                   |
+| SUPER + shift + w          | Firefox                                     |
+| ALT + shift + w          | Qutebrowser                                 |
+| ALT + f                  | Thunar                                      |
 
 #### Gaps Bindings
 | SUPER | ALT + h/l         | Inc Gaps Inner Gaps   |
