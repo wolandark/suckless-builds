@@ -51,5 +51,8 @@ There are multiple builds of dwm available. Each build is slightly different tha
 - dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads
 - dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-titlecolors
 
+![dwm-drac](https://user-images.githubusercontent.com/107309764/232260007-5dd38918-d575-45a4-ba54-2c18c85db5d2.png)
+[Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads plus Xresources dracula theme]()
+
 ![dwm-scr](https://user-images.githubusercontent.com/107309764/232183377-bd25a59c-faf3-4e21-9c7d-650bceeec170.png)
 [Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads]()
