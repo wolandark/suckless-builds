@@ -34,7 +34,7 @@
 - gridnav
 - draculaesque colors applied manually 
 
-![2023-04-15-063758_1920x1080_scrot](https://user-images.githubusercontent.com/107309764/232180349-1017e9b2-7ae5-4918-8b22-2099d7955bc2.png)
+![2023-04-16-074241_1280x800_scrot](https://user-images.githubusercontent.com/107309764/232266129-b69851bc-2d76-4751-ad7b-0165d1e7f201.png)
 
 <hr>
 
@@ -52,8 +52,8 @@ There are multiple builds of dwm available. Each build is slightly different tha
 - dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads
 - dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-titlecolors
 
-![dwm-drac](https://user-images.githubusercontent.com/107309764/232260007-5dd38918-d575-45a4-ba54-2c18c85db5d2.png)
-[Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads plus Xresources dracula theme]()
+![2023-04-16-074201_1280x800_scrot](https://user-images.githubusercontent.com/107309764/232266110-71827f24-db04-43ab-bc42-8ac7ce33faca.png)
+[Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-dynamicscratchpads plus Xresources mocha theme]()
 
 ![dwm-scr](https://user-images.githubusercontent.com/107309764/232183377-bd25a59c-faf3-4e21-9c7d-650bceeec170.png)
 [Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads]()
