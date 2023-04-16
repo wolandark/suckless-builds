@@ -3,6 +3,7 @@
 * My builds of some suckless software <br>
 * All patches have been applied and tested properly <br>
 * You only need to run <code>sudo make install</code> <br>
+* Get base16 Xresources themes from [here](https://github.com/janoamaral/Xresources-themes)
 <hr>
 
 ### st
