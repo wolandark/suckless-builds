@@ -88,20 +88,24 @@ There are multiple builds of dwm available. Each build is slightly different tha
 | ALT + f                  | Thunar                                      |
 
 #### Gaps Bindings
-| SUPER | ALT + h/l         | Inc Gaps Inner Gaps   |
-| SUPER | shift + ALT + h/l | Incro Gaps Outter Gaps |
-| SUPER | ALT + ctrl + h/l  | Incrigaps Gaps Between Tiles  |
-| SUPER | y/o               | Incrihgaps  Gaps Stack     |
-| SUPER | ctrl + y/o        | Incrivgaps  Gaps Master   |
-| SUPER | ALT +y/o          | Incrohgaps  Gaps Vertical |
-| SUPER | shift y/o         | Incrovgaps  Gaps Horizontal |
-| SUPER | ALT + 0           | Toggle Gaps               |
-| SUPER | ALT + shift + 0   | Default Gaps              |
+|Keys | Action |
+|----|----|
+| SUPER + ALT + h/l         | Inc Gaps Inner Gaps   |
+| SUPER + shift + ALT + h/l | Incro Gaps Outter Gaps |
+| SUPER + ALT + ctrl + h/l  | Incrigaps Gaps Between Tiles  |
+| SUPER + y/o               | Incrihgaps  Gaps Stack     |
+| SUPER + ctrl + y/o        | Incrivgaps  Gaps Master   |
+| SUPER + ALT +y/o          | Incrohgaps  Gaps Vertical |
+| SUPER + shift y/o         | Incrovgaps  Gaps Horizontal |
+| SUPER + ALT + 0           | Toggle Gaps               |
+| SUPER + ALT + shift + 0   | Default Gaps              |
 
 #### Scratchpad Bindings
-| SUPER | shift + minus     | Current Tab To Scratchpas |
-| SUPER | minus             | Cycle Through Scratchpads |
-| SUPER | x                 | Remove Scratchpad         |
+|Keys | Action |
+|----|----|
+| SUPER + shift + minus     | Current Tab To Scratchpas |
+| SUPER + minus             | Cycle Through Scratchpads |
+| SUPER + x                 | Remove Scratchpad         |
 
 
 
