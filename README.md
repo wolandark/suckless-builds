@@ -115,6 +115,8 @@ There are multiple builds of dwm available. Each build is slightly different tha
 | SUPER + Minus             | Cycle Through Scratchpads |
 | SUPER + x                 | Remove Scratchpad         |
 
+<hr>
+
 ### surf
 #### Patches Applied
 - homepage
