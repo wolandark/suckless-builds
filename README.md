@@ -59,5 +59,3 @@ There are multiple builds of dwm available. Each build is slightly different tha
 ![dwm-scr](https://user-images.githubusercontent.com/107309764/232183377-bd25a59c-faf3-4e21-9c7d-650bceeec170.png)
 [Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads]()
 
-# who did it
-# who did it
