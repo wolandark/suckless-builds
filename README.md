@@ -7,7 +7,7 @@
 <hr>
 
 ### st
-#### patches applied
+#### Patches Applied
 - alpha
   - clipboard
   - copy URL
@@ -27,7 +27,7 @@
 <hr>
 
 ### dmenu
-#### patches applied
+#### Patches Applied
 - border
 - center
 - grid
@@ -37,6 +37,10 @@
 ![2023-04-16-074241_1280x800_scrot](https://user-images.githubusercontent.com/107309764/232266129-b69851bc-2d76-4751-ad7b-0165d1e7f201.png)
 
 <hr>
+
+### slock
+#### Patches Applied
+- background image
 
 ### dwm
 #### Versions
@@ -75,37 +79,45 @@ There are multiple builds of dwm available. Each build is slightly different tha
 | SUPER + f                  | Floating                                    |
 | SUPER + m                  | Monocole                                    |
 | SUPER + r                  | Fibo                                        |
-| SUPER + shift + r          | Dwindle                                     |
-| SUPER + space              | Layout 0                                    |
-| SUPER + shift + space      | Toggle Floating                             |
+| SUPER + Shift + r          | Dwindle                                     |
+| SUPER + Space              | Layout 0                                    |
+| SUPER + Shift + Space      | Toggle Floating                             |
 | SUPER + 0                  | View All Tags                               |
-| SUPER + shift + 0          | Mark Current Window For To View On All Tags |
-| ALT   + left/right         | View Left/Right                             |
-| ALT   + shift + left/right | Tag To Left/Right                           |
+| SUPER + Shift + 0          | Mark Current Window For To View On All Tags |
+| ALT   + Left/Right         | View Left/Right                             |
+| ALT   + Shift + Left/Right | Tag To Left/Right                           |
 | SUPER +  1..9               | Go To Tag                                   |
-| SUPER + shift + w          | Firefox                                     |
-| ALT + shift + w          | Qutebrowser                                 |
+| SUPER + Shift + w          | Firefox                                     |
+| ALT + Shift + w          | Qutebrowser                                 |
 | ALT + f                  | Thunar                                      |
 
 #### Gaps Bindings
 |Keys | Action |
 |----|----|
 | SUPER + ALT + h/l         | Inc Gaps Inner Gaps   |
-| SUPER + shift + ALT + h/l | Incro Gaps Outter Gaps |
-| SUPER + ALT + ctrl + h/l  | Incrigaps Gaps Between Tiles  |
+| SUPER + Shift + ALT + h/l | Incro Gaps Outter Gaps |
+| SUPER + ALT + Ctrl + h/l  | Incrigaps Gaps Between Tiles  |
 | SUPER + y/o               | Incrihgaps  Gaps Stack     |
-| SUPER + ctrl + y/o        | Incrivgaps  Gaps Master   |
+| SUPER + Ctrl + y/o        | Incrivgaps  Gaps Master   |
 | SUPER + ALT +y/o          | Incrohgaps  Gaps Vertical |
-| SUPER + shift y/o         | Incrovgaps  Gaps Horizontal |
+| SUPER + Shift y/o         | Incrovgaps  Gaps Horizontal |
 | SUPER + ALT + 0           | Toggle Gaps               |
 | SUPER + ALT + shift + 0   | Default Gaps              |
 
 #### Scratchpad Bindings
 |Keys | Action |
 |----|----|
-| SUPER + shift + minus     | Current Tab To Scratchpas |
-| SUPER + minus             | Cycle Through Scratchpads |
+| SUPER + Shift + Minus     | Current Tab To Scratchpas |
+| SUPER + Minus             | Cycle Through Scratchpads |
 | SUPER + x                 | Remove Scratchpad         |
 
+### surf
+#### Patches Applied
+- homepage
+- history
+- bookmarks
+- clipboard
+- quit hotkey
+- scroll multiply 
 
 
