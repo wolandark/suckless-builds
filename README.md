@@ -22,7 +22,9 @@
 - w3m
 - xresources signal reloading
 
-![st](https://user-images.githubusercontent.com/107309764/232180205-62ea7a9c-f8f8-49d2-986c-a304aa9993e8.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/107309764/232180205-62ea7a9c-f8f8-49d2-986c-a304aa9993e8.png" width="400" height="300">
+</p>
 
 <hr>
 
@@ -34,7 +36,9 @@
 - gridnav
 - draculaesque colors applied manually 
 
-![2023-04-16-074241_1280x800_scrot](https://user-images.githubusercontent.com/107309764/232266129-b69851bc-2d76-4751-ad7b-0165d1e7f201.png)
+<p>
+<img src="https://user-images.githubusercontent.com/107309764/232266129-b69851bc-2d76-4751-ad7b-0165d1e7f201.png" width="600" height="500">
+</p>
 
 <hr>
 
@@ -42,7 +46,9 @@
 #### Patches Applied
 - background image
 
-![2023-04-17-030135_3840x1080_scrot](https://user-images.githubusercontent.com/107309764/232349944-2afddf31-0b86-4882-8efb-b1b7abc2f612.png)
+<p>
+<img src="2023-04-17-030135_3840x1080_scrot](https://user-images.githubusercontent.com/107309764/232349944-2afddf31-0b86-4882-8efb-b1b7abc2f612.png)" width="600" height="500">
+</p>
 
 <hr>
 
@@ -61,11 +67,12 @@ There are multiple builds of dwm available. Each build is slightly different tha
 - dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-titlecolors
 - dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-dynamicscratchpads-notitle
 
-![2023-04-16-074201_1280x800_scrot](https://user-images.githubusercontent.com/107309764/232266110-71827f24-db04-43ab-bc42-8ac7ce33faca.png)
-[Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-dynamicscratchpads-notitle plus Xresources mocha theme]()
-
-![dwm-scr](https://user-images.githubusercontent.com/107309764/232183377-bd25a59c-faf3-4e21-9c7d-650bceeec170.png)
-[Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads]()
+<div align="center">
+<img src="https://user-images.githubusercontent.com/107309764/232183377-bd25a59c-faf3-4e21-9c7d-650bceeec170.png" width="600" height="500">
+<img src="https://user-images.githubusercontent.com/107309764/232266110-71827f24-db04-43ab-bc42-8ac7ce33faca.png" width="600" height="500">
+</div>
+<!-- [Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-dynamicscratchpads-notitle plus Xresources mocha theme]() -->
+<!-- [Screenshot of dwm-center-pertag-attachbottombelow-focuseadjacent-fibo-vanitygaps-scratchpads]() -->
 
 ### KeyBindings
 #### General Bindings
