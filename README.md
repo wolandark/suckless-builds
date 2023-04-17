@@ -127,3 +127,17 @@ There are multiple builds of dwm available. Each build is slightly different tha
 - scroll multiply 
 
 ![surf](https://user-images.githubusercontent.com/107309764/232350203-f0677bd1-b98e-4aa1-94a0-3470d77cb7ac.png)
+
+<hr>
+
+### sent
+#### Patches Applied
+- progress bar
+- bidi
+- cmd options
+- pdf
+
+![sent](https://user-images.githubusercontent.com/107309764/232360800-69cf7dcb-d539-45b5-85f2-671a45ce124f.png)
+
+
+
